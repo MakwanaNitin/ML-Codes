@@ -1,7 +1,7 @@
 from sklearn.preprocessing import LabelEncoder
 
 # Sample ordinal data
-ordinal_data = ['L', 'M', 'M', 'XL', 'XL']
+ordinal_data = ['L', 'M', 'M', 'XL', 'XL', 'XXL']
 
 # Define the order of the categories
 ordinal_categories = ['XL', 'L', 'M']
